@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="validador-de-csv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/validador_de_csv_jar</output-path>
+    <root id="archive" name="validador-de-csv.jar">
+      <element id="module-output" name="validador-de-csv" />
+    </root>
+  </artifact>
+</component>

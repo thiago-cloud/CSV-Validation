@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ValidadorCSV">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/ValidadorCSV.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
