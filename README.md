@@ -1,7 +1,7 @@
 # csv-validation
 Um software criado em Java para validação de arquivos CSV é uma ferramenta valiosa para empresas e profissionais que trabalham com dados armazenados em formato CSV (Comma-Separated Values). Essa aplicação permite verificar e garantir a integridade e precisão dos dados contidos em arquivos CSV, facilitando a análise e o uso desses dados.
 
-##Validação de campos
+## Validação de campos
 
 Agora, o leitor de CSV também irá ler as linhas de todos os arquivos para verificar
 a validez dos campos. Ele validará se o campo de preço é válido, se o nome do cliente
